@@ -1,0 +1,23 @@
+body {
+	background-color: #0E7C41;
+
+}
+.circle {
+	width: 100px;
+	height: 100px;
+	border: 2px solid gold;
+	border-radius: 50%;
+}
+.square {
+	width: 100px;
+	height: 100px;
+	border: 2px solid lightblue;
+	
+}
+.triangle {
+	width: 0px;
+	height: 0px;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 50px solid red;
+}
